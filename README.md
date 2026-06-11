@@ -21,7 +21,7 @@ A high-precision Machine Learning system for breast cancer diagnostic assistance
 
 1. Clone:
 ```bash
-git clone https://github.com/mstfyshrqawy520-alt/breast-cancer-classification-ml.git
+git clone https://github.com/abdelkree5/breast-cancer-classification-ml.git
 cd breast-cancer-classification-ml
 ```
 
@@ -48,4 +48,4 @@ streamlit run ui.py
 ```
 
 ---
-Developed by **Mostafa Elsharqawi**
+Developed by **abdelkreem abdelhaleem frahat**
